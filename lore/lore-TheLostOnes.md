@@ -13,4 +13,4 @@ The Lost Ones are docile entities, and generally do not wish to harm the populat
 
 There have been reported moments where a Lost One stopped a child from walking into a newly formed rift before the Guardians could get there. Suggesting they care for the lives of either world
 
-![img](assets/TheLostOnes.jpg)
+![img](../assets/TheLostOnes.jpg)

@@ -1,8 +1,6 @@
-## Find the Lost Dragon
-The Lost Dragon is an entity that was formed at the creation of the Link
+## Origins
+The Lost Dragon was formed at the creation of the first Rift, the sphere of energy that links Altera to Earth. 
 
-The raw magical energies that bound the two worlds together corrupted the Great Mage. And one of the Researchers, the corruption bound them together, forming one ainchient dragon who has two souls. 
+It existed in the Earth Realm 
 
-The Lost Dragon was the ruller of the Vanished in the modern world, teaching the Vanished how to control their new found powers. 
-
-![img](assets/TheLostDragon.jpg)
+![img](../assets/TheLostDragon.jpg)
