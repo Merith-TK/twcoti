@@ -1,0 +1,2 @@
+The linkage of worlds was no accident, an entity formed from within the void by the magics and sciences of worlds that destroyed not just themselves, but all of their reality, being scattered into the Void, Linked these two worlds together to create the perfect reality, one where everything was balanced. It had used the powerful energies of the two worlds attempts to scry into others, as a chance to non-destructively link the two,
+
