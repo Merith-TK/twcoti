@@ -1,7 +1,10 @@
 default:
 	git commit
+	echo ""
 	git push -u github master
+	echo ""
 	git push -u gitea master
+	echo ""
 	git push -u gitlab master
 
 fix-repo:
