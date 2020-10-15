@@ -2,8 +2,8 @@ default:
 	git commit
 	git push -u github master
 	git push -u gitea master
-	git push -u gitea master
-	
+	git push -u gitlab master
+
 fix-repo:
 	git remote add github https://github.com/merith-tk/twcoti.git
 	git remote add gitea https://git.merith.tk/merith-tk/twcoti.git
